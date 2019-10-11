@@ -1,0 +1,42 @@
+#header{
+    background:darkgray
+}
+
+h1{color:#BE1F13}
+h1{text-align: center}
+h1{font-family:verdana, times new roman;;}
+h1{font-size:100px;}
+
+p{text-align: center}
+p{font-size:90px}
+p{vertical-align:10px}
+
+h4{font-size:40px}
+
+.content a{
+    text-decoration: none;
+font-size:50px
+
+}
+
+a{color:#000000}
+a{vertical-align:1px}
+a{font-family:verdana, times new roman;;}
+
+q{font-family:verdana, times new roman;;}
+q{font-size:20px}
+
+img{
+max-width:100px;
+max-height:100px;
+}
+     
+h2{color:#BE1F13}
+
+
+body{font-size:50px}
+
+
+
+
+p2{font-family:verdana, times new roman;;}
